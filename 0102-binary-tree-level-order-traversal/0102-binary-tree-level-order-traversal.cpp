@@ -9,53 +9,32 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-// #include <queue>
-#include <deque>
+#include<deque>
 class Solution {
 public:
+    deque<TreeNode*>levels;
     vector<vector<int>>ans;
-    
-     deque<TreeNode*>lvl;
-
-    void order(deque<TreeNode*>&lvl){
-    // if(root==NULL)return;
-    if(lvl.empty())return;
-    deque<TreeNode*>Next;
-    vector<int>copy;
-   
-    int s=lvl.size();
-    for(int i=0;i<s;i++){
-        if(lvl[i]==nullptr)continue;
-        copy.push_back(lvl[i]->val);
-        Next.push_back(lvl[i]->left);
-        Next.push_back(lvl[i]->right);
-        // lvl.pop_front();
-        // lvl.pop_front();
-    
-    }
-    lvl=Next;
-    
-    if(copy.empty())return;
-    ans.push_back(copy);
-    order(lvl);
+    void order(deque<TreeNode*>levels){
+        if(levels.empty())return;
+        vector<int>temp;
+        deque<TreeNode*>Next;
+        for(int i=0;i<levels.size();i++){
+            if(levels[i]==nullptr)continue;
+            temp.push_back(levels[i]->val);
+            Next.push_back(levels[i]->left);
+            Next.push_back(levels[i]->right);
+        }
+        levels=Next;
+        if(temp.empty())return;
+        ans.push_back(temp);
+        order(levels);
 
     }
-    // traversal(TreeNode* root){
-    //     if(root==NULL)
-    // }
-
     vector<vector<int>> levelOrder(TreeNode* root) {
-        // TreeNode* p=root;
         if(root==NULL)return ans;
-        // level.push_back(root);
-        lvl.push_back(root);
-        order(lvl);
+        levels.push_back(root);
+        order(levels);
         return ans;
-  
-       
-       
-       
-
         
     }
 };
