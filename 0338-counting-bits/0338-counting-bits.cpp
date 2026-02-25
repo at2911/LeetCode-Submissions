@@ -1,35 +1,27 @@
 class Solution {
 public:
-     vector<int>cnt;
-    int count(int n){
-        int p=n;
-        int c=0;
-        while(n!=0){
-            if(cnt[n]==0){
-                if(n&1)c++;
-               n= n>>1;
-
-            }
-            else{
-                cnt[p]=cnt[n]+c;
-                return cnt[p];
-            }
-
-
-
-        }
-        cnt[p]=c;
-        return c;
-        
-    }
     vector<int> countBits(int n) {
-       cnt.resize(n+1);
         vector<int>ans;
+        vector<int>cnt(n+1,0);
         for(int i=0;i<=n;i++){
-            ans.push_back(count(i));
+            int p=i;
+            int count=0;
+            while(p!=0){
+
+                if(cnt[p]==0){
+                    int d=p&1;
+                    p=p>>1;
+                    if(d==1)count++;
+                }
+                else{
+                   
+                    
+                    break;
+                }
+            }
+            cnt[i]=cnt[p]+count;
+            ans.push_back(cnt[i]);
         }
         return ans;
-        
-        
     }
 };
