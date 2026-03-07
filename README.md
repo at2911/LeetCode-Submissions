@@ -29,4 +29,12 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/at2911/LeetCode-Submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->
