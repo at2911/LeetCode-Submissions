@@ -37,4 +37,8 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
