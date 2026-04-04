@@ -36,6 +36,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
+| [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -64,4 +65,13 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
+| [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
