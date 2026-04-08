@@ -40,6 +40,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/at2911/LeetCode-Submissions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +88,5 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/0190-reverse-bits/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
