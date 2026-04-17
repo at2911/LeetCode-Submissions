@@ -30,6 +30,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/at2911/LeetCode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
 | [0541-reverse-string-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/at2911/LeetCode-Submissions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -75,6 +76,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/at2911/LeetCode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
