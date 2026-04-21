@@ -43,6 +43,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/at2911/LeetCode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/at2911/LeetCode-Submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -131,6 +132,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/at2911/LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/at2911/LeetCode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/at2911/LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/at2911/LeetCode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
