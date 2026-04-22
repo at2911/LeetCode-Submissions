@@ -132,6 +132,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/at2911/LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/at2911/LeetCode-Submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/at2911/LeetCode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -146,4 +147,12 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/at2911/LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/at2911/LeetCode-Submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/at2911/LeetCode-Submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
