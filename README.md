@@ -50,6 +50,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/at2911/LeetCode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -72,6 +73,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Enumeration
@@ -84,6 +86,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/at2911/LeetCode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
+| [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
