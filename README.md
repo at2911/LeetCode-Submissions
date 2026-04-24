@@ -37,6 +37,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/at2911/LeetCode-Submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/at2911/LeetCode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/at2911/LeetCode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3110-score-of-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/3110-score-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/at2911/LeetCode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
