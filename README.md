@@ -29,6 +29,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/at2911/LeetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/at2911/LeetCode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
@@ -84,6 +85,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/at2911/LeetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/at2911/LeetCode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
