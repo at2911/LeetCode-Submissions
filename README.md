@@ -133,6 +133,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0367-valid-perfect-square](https://github.com/at2911/LeetCode-Submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [2119-a-number-after-a-double-reversal](https://github.com/at2911/LeetCode-Submissions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
