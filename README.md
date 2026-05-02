@@ -148,6 +148,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/at2911/LeetCode-Submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
+| [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/at2911/LeetCode-Submissions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -197,4 +198,8 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 <!---LeetCode Topics End-->
