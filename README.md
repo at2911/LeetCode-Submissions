@@ -48,6 +48,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -69,6 +70,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -147,6 +149,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0367-valid-perfect-square](https://github.com/at2911/LeetCode-Submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
