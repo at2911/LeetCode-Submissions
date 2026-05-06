@@ -34,6 +34,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0290-word-pattern](https://github.com/at2911/LeetCode-Submissions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0504-base-7](https://github.com/at2911/LeetCode-Submissions/tree/main/0504-base-7/) | Easy |
 | [0541-reverse-string-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/at2911/LeetCode-Submissions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0796-rotate-string/) | Easy |
@@ -159,6 +160,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0367-valid-perfect-square](https://github.com/at2911/LeetCode-Submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
+| [0504-base-7](https://github.com/at2911/LeetCode-Submissions/tree/main/0504-base-7/) | Easy |
 | [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
