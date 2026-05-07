@@ -52,6 +52,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/at2911/LeetCode-Submissions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -162,6 +163,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/at2911/LeetCode-Submissions/tree/main/0504-base-7/) | Easy |
 | [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/at2911/LeetCode-Submissions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
