@@ -14,7 +14,6 @@ public:
            for(int i:temp){
             ans.push_back(i);
            }
-
             
         }
         return ans;
