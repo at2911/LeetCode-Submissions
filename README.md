@@ -70,6 +70,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2553-separate-the-digits-in-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/at2911/LeetCode-Submissions/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -116,6 +117,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1512-number-of-good-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2418-sort-the-people](https://github.com/at2911/LeetCode-Submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2418-sort-the-people](https://github.com/at2911/LeetCode-Submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/at2911/LeetCode-Submissions/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
