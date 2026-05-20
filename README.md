@@ -72,6 +72,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2540-minimum-common-value](https://github.com/at2911/LeetCode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/at2911/LeetCode-Submissions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -96,6 +97,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1009-complement-of-base-10-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/at2911/LeetCode-Submissions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2418-sort-the-people](https://github.com/at2911/LeetCode-Submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2540-minimum-common-value](https://github.com/at2911/LeetCode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
