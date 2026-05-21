@@ -59,6 +59,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0989-add-to-array-form-of-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/at2911/LeetCode-Submissions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/at2911/LeetCode-Submissions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1345-jump-game-iv](https://github.com/at2911/LeetCode-Submissions/tree/main/1345-jump-game-iv/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -121,6 +122,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/at2911/LeetCode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1345-jump-game-iv](https://github.com/at2911/LeetCode-Submissions/tree/main/1345-jump-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2418-sort-the-people](https://github.com/at2911/LeetCode-Submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2540-minimum-common-value](https://github.com/at2911/LeetCode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
@@ -217,6 +219,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/at2911/LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
+| [1345-jump-game-iv](https://github.com/at2911/LeetCode-Submissions/tree/main/1345-jump-game-iv/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
