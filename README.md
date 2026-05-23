@@ -66,6 +66,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/at2911/LeetCode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/at2911/LeetCode-Submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/at2911/LeetCode-Submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
