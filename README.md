@@ -84,6 +84,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/at2911/LeetCode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -203,6 +204,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2119-a-number-after-a-double-reversal](https://github.com/at2911/LeetCode-Submissions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/at2911/LeetCode-Submissions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/at2911/LeetCode-Submissions/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
