@@ -204,6 +204,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2119-a-number-after-a-double-reversal](https://github.com/at2911/LeetCode-Submissions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/at2911/LeetCode-Submissions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/at2911/LeetCode-Submissions/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [3099-harshad-number](https://github.com/at2911/LeetCode-Submissions/tree/main/3099-harshad-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
