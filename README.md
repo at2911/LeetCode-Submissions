@@ -55,6 +55,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
@@ -94,6 +95,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -123,6 +125,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0205-isomorphic-strings](https://github.com/at2911/LeetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
