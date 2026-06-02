@@ -56,6 +56,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0031-next-permutation](https://github.com/at2911/LeetCode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/at2911/LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/0118-pascals-triangle/) | Easy |
@@ -190,6 +191,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/at2911/LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/0190-reverse-bits/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Counting
@@ -283,6 +285,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/at2911/LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/at2911/LeetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
