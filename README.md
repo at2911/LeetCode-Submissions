@@ -28,6 +28,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/at2911/LeetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
@@ -136,6 +137,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0205-isomorphic-strings](https://github.com/at2911/LeetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
@@ -316,5 +318,6 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0078-subsets](https://github.com/at2911/LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
