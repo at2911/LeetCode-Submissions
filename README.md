@@ -57,6 +57,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0033-search-in-rotated-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/at2911/LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/at2911/LeetCode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -153,6 +154,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/at2911/LeetCode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
