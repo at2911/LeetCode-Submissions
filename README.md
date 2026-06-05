@@ -225,6 +225,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/at2911/LeetCode-Submissions/tree/main/0050-powx-n/) | Medium |
 | [0367-valid-perfect-square](https://github.com/at2911/LeetCode-Submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/at2911/LeetCode-Submissions/tree/main/0504-base-7/) | Easy |
@@ -329,4 +330,8 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0046-permutations](https://github.com/at2911/LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/at2911/LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/at2911/LeetCode-Submissions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
