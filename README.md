@@ -235,6 +235,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/at2911/LeetCode-Submissions/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/at2911/LeetCode-Submissions/tree/main/0062-unique-paths/) | Medium |
 | [0367-valid-perfect-square](https://github.com/at2911/LeetCode-Submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/at2911/LeetCode-Submissions/tree/main/0504-base-7/) | Easy |
@@ -318,6 +319,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/at2911/LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/at2911/LeetCode-Submissions/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/at2911/LeetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
@@ -344,4 +346,8 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/at2911/LeetCode-Submissions/tree/main/0050-powx-n/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/at2911/LeetCode-Submissions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
