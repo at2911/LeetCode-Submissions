@@ -54,6 +54,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/0001-two-sum/) | Easy |
+| [0018-4sum](https://github.com/at2911/LeetCode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/at2911/LeetCode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -174,6 +175,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/at2911/LeetCode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/at2911/LeetCode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -206,6 +208,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/at2911/LeetCode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/at2911/LeetCode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/0075-sort-colors/) | Medium |
