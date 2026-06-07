@@ -53,6 +53,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/at2911/LeetCode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -148,6 +149,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/at2911/LeetCode-Submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
