@@ -246,6 +246,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/at2911/LeetCode-Submissions/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/at2911/LeetCode-Submissions/tree/main/0062-unique-paths/) | Medium |
@@ -360,6 +361,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/at2911/LeetCode-Submissions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -390,6 +392,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
