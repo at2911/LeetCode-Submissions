@@ -221,6 +221,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0141-linked-list-cycle](https://github.com/at2911/LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0541-reverse-string-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
@@ -321,6 +322,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/at2911/LeetCode-Submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -370,6 +372,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0025-reverse-nodes-in-k-group](https://github.com/at2911/LeetCode-Submissions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/at2911/LeetCode-Submissions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +407,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0141-linked-list-cycle](https://github.com/at2911/LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
