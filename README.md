@@ -157,6 +157,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/at2911/LeetCode-Submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/at2911/LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/at2911/LeetCode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/at2911/LeetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -219,6 +220,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0075-sort-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/at2911/LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -405,6 +407,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0021-merge-two-sorted-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/at2911/LeetCode-Submissions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/at2911/LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
