@@ -223,6 +223,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/at2911/LeetCode-Submissions/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/at2911/LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -412,6 +413,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/at2911/LeetCode-Submissions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/at2911/LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
