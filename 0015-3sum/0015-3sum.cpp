@@ -2,31 +2,34 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        int s=nums.size();
         vector<vector<int>>ans;
-        for(int i=0;i<s-2;i++){
-            if(i>0 && nums[i]==nums[i-1]) continue;
-            int l=i+1;
-            int r= s-1;
+        int sum=0;
+        for(int i=0;i<nums.size()-2;i++){
+            if(i>0 && nums[i]==nums[i-1])continue;
+            int l=i+1,r=nums.size()-1;
+            sum=nums[i];
             while(l<r){
-                long long sum= nums[i]+ nums[l] + nums[r];
+                sum+=nums[l];
+                sum+=nums[r];
                 if(sum==0){
-                    ans.push_back({nums[i], nums[l], nums[r]});
+                    vector<int>temp;
+                    temp.push_back(nums[i]);
+                    temp.push_back(nums[l]);
+                    temp.push_back(nums[r]);
+                    ans.push_back(temp);
                     l++;
                     r--;
-                    while(l<r &&nums[l]==nums[l-1]) l++;
-                    while(l<r &&nums[r]==nums[r+1])r--;
+                    while(l<r && nums[l]==nums[l-1])l++;
+                    while(r>l && nums[r]==nums[r+1])r--;
                 }
-                else if(sum>0)r--;
+                else if(sum>0){
+                    r--;
+                }
                 else l++;
+                sum=nums[i];
             }
-
         }
-        // vector<vector<int>>sol;
-        // for( auto &s:ans){
-        //     sol.push_back(vector<int>(s.begin(),s.end()));
-        // }
         return ans;
-        
+
     }
 };
