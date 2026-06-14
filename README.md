@@ -78,6 +78,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0169-majority-element](https://github.com/at2911/LeetCode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/at2911/LeetCode-Submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/0493-reverse-pairs/) | Hard |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
