@@ -30,6 +30,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/at2911/LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/at2911/LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/at2911/LeetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
@@ -377,6 +378,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0062-unique-paths](https://github.com/at2911/LeetCode-Submissions/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/at2911/LeetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/at2911/LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0322-coin-change](https://github.com/at2911/LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -401,6 +403,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0046-permutations](https://github.com/at2911/LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/at2911/LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/at2911/LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
