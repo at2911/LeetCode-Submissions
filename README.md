@@ -282,6 +282,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0002-add-two-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/at2911/LeetCode-Submissions/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/at2911/LeetCode-Submissions/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/at2911/LeetCode-Submissions/tree/main/0062-unique-paths/) | Medium |
 | [0367-valid-perfect-square](https://github.com/at2911/LeetCode-Submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
@@ -411,6 +412,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0021-merge-two-sorted-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/at2911/LeetCode-Submissions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/at2911/LeetCode-Submissions/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/at2911/LeetCode-Submissions/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Combinatorics
