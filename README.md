@@ -81,6 +81,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0169-majority-element](https://github.com/at2911/LeetCode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/at2911/LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/at2911/LeetCode-Submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/at2911/LeetCode-Submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/0493-reverse-pairs/) | Hard |
@@ -331,6 +332,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/at2911/LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/at2911/LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [1345-jump-game-iv](https://github.com/at2911/LeetCode-Submissions/tree/main/1345-jump-game-iv/) | Hard |
 ## Union-Find
@@ -371,6 +373,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0062-unique-paths](https://github.com/at2911/LeetCode-Submissions/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/at2911/LeetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0322-coin-change](https://github.com/at2911/LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
