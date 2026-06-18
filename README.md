@@ -64,6 +64,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/at2911/LeetCode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/at2911/LeetCode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/at2911/LeetCode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -129,6 +130,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/at2911/LeetCode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -169,6 +171,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0001-two-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/at2911/LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/at2911/LeetCode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/at2911/LeetCode-Submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/at2911/LeetCode-Submissions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -401,6 +404,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/at2911/LeetCode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/at2911/LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
