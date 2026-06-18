@@ -292,6 +292,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1232-check-if-it-is-a-straight-line](https://github.com/at2911/LeetCode-Submissions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/at2911/LeetCode-Submissions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/at2911/LeetCode-Submissions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/at2911/LeetCode-Submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
