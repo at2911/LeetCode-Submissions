@@ -69,6 +69,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0042-trapping-rain-water](https://github.com/at2911/LeetCode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/at2911/LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/at2911/LeetCode-Submissions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/at2911/LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/at2911/LeetCode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/at2911/LeetCode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -403,6 +404,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0039-combination-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/at2911/LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/at2911/LeetCode-Submissions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/at2911/LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/at2911/LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
