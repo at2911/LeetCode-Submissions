@@ -101,6 +101,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/at2911/LeetCode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/at2911/LeetCode-Submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/at2911/LeetCode-Submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/at2911/LeetCode-Submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -156,6 +157,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/at2911/LeetCode-Submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/at2911/LeetCode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
