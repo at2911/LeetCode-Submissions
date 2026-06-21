@@ -104,6 +104,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/at2911/LeetCode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/at2911/LeetCode-Submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/at2911/LeetCode-Submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/at2911/LeetCode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/at2911/LeetCode-Submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -212,6 +213,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/at2911/LeetCode-Submissions/tree/main/0455-assign-cookies/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/at2911/LeetCode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/at2911/LeetCode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/at2911/LeetCode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -331,6 +333,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/at2911/LeetCode-Submissions/tree/main/0455-assign-cookies/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/at2911/LeetCode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/at2911/LeetCode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/at2911/LeetCode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -472,4 +475,8 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/at2911/LeetCode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/at2911/LeetCode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
