@@ -88,6 +88,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/at2911/LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/at2911/LeetCode-Submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/at2911/LeetCode-Submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/0493-reverse-pairs/) | Hard |
@@ -187,6 +188,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/at2911/LeetCode-Submissions/tree/main/0290-word-pattern/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/at2911/LeetCode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -211,6 +213,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0169-majority-element](https://github.com/at2911/LeetCode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/at2911/LeetCode-Submissions/tree/main/0455-assign-cookies/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/at2911/LeetCode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -256,6 +259,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0160-intersection-of-two-linked-lists](https://github.com/at2911/LeetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/at2911/LeetCode-Submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
@@ -324,6 +328,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/at2911/LeetCode-Submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0493-reverse-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/0493-reverse-pairs/) | Hard |
