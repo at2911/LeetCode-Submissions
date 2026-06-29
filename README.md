@@ -43,6 +43,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0796-rotate-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/at2911/LeetCode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/at2911/LeetCode-Submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/at2911/LeetCode-Submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2418-sort-the-people](https://github.com/at2911/LeetCode-Submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/at2911/LeetCode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -107,6 +108,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/at2911/LeetCode-Submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/at2911/LeetCode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/at2911/LeetCode-Submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/at2911/LeetCode-Submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/at2911/LeetCode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
