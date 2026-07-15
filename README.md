@@ -336,6 +336,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2864-maximum-odd-binary-number](https://github.com/at2911/LeetCode-Submissions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3099-harshad-number](https://github.com/at2911/LeetCode-Submissions/tree/main/3099-harshad-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/at2911/LeetCode-Submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -436,6 +437,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/at2911/LeetCode-Submissions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/at2911/LeetCode-Submissions/tree/main/2427-number-of-common-factors/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/at2911/LeetCode-Submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
