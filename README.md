@@ -131,6 +131,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/3024-type-of-triangle/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/at2911/LeetCode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -238,6 +239,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2706-buy-two-chocolates](https://github.com/at2911/LeetCode-Submissions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/3024-type-of-triangle/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -340,6 +342,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2427-number-of-common-factors](https://github.com/at2911/LeetCode-Submissions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/at2911/LeetCode-Submissions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/at2911/LeetCode-Submissions/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [3024-type-of-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/at2911/LeetCode-Submissions/tree/main/3099-harshad-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/at2911/LeetCode-Submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
