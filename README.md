@@ -57,6 +57,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/at2911/LeetCode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/at2911/LeetCode-Submissions/tree/main/3894-traffic-signal-color/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +264,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3701-compute-alternating-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/at2911/LeetCode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3894-traffic-signal-color](https://github.com/at2911/LeetCode-Submissions/tree/main/3894-traffic-signal-color/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,6 +355,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3894-traffic-signal-color](https://github.com/at2911/LeetCode-Submissions/tree/main/3894-traffic-signal-color/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
