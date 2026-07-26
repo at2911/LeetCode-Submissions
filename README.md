@@ -99,6 +99,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0485-max-consecutive-ones](https://github.com/at2911/LeetCode-Submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/at2911/LeetCode-Submissions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -235,6 +236,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/at2911/LeetCode-Submissions/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/at2911/LeetCode-Submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -334,6 +336,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/at2911/LeetCode-Submissions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0507-perfect-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/at2911/LeetCode-Submissions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
