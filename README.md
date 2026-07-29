@@ -127,6 +127,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/at2911/LeetCode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2418-sort-the-people](https://github.com/at2911/LeetCode-Submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/at2911/LeetCode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2465-number-of-distinct-averages](https://github.com/at2911/LeetCode-Submissions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/at2911/LeetCode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -218,6 +219,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1512-number-of-good-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/at2911/LeetCode-Submissions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2418-sort-the-people](https://github.com/at2911/LeetCode-Submissions/tree/main/2418-sort-the-people/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/at2911/LeetCode-Submissions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/at2911/LeetCode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -249,6 +251,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2126-destroying-asteroids](https://github.com/at2911/LeetCode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/at2911/LeetCode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2418-sort-the-people](https://github.com/at2911/LeetCode-Submissions/tree/main/2418-sort-the-people/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/at2911/LeetCode-Submissions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/at2911/LeetCode-Submissions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
@@ -304,6 +307,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0876-middle-of-the-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2465-number-of-distinct-averages](https://github.com/at2911/LeetCode-Submissions/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/at2911/LeetCode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
