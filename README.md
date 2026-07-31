@@ -53,6 +53,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2833-furthest-point-from-origin](https://github.com/at2911/LeetCode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/at2911/LeetCode-Submissions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/at2911/LeetCode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3110-score-of-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -225,6 +226,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/at2911/LeetCode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -256,6 +258,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2706-buy-two-chocolates](https://github.com/at2911/LeetCode-Submissions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3024-type-of-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -334,6 +337,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1512-number-of-good-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/at2911/LeetCode-Submissions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/at2911/LeetCode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +408,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2706-buy-two-chocolates](https://github.com/at2911/LeetCode-Submissions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/at2911/LeetCode-Submissions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Depth-First Search
