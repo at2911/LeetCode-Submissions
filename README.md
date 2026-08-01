@@ -104,6 +104,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/at2911/LeetCode-Submissions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/at2911/LeetCode-Submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/at2911/LeetCode-Submissions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1260-shift-2d-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -245,6 +246,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0349-intersection-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/at2911/LeetCode-Submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/at2911/LeetCode-Submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/at2911/LeetCode-Submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -309,6 +311,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/at2911/LeetCode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/at2911/LeetCode-Submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/at2911/LeetCode-Submissions/tree/main/2465-number-of-distinct-averages/) | Easy |
