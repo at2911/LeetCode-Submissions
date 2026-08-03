@@ -104,6 +104,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/at2911/LeetCode-Submissions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
+| [0877-stone-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/at2911/LeetCode-Submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/at2911/LeetCode-Submissions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -355,6 +356,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0507-perfect-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/at2911/LeetCode-Submissions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/at2911/LeetCode-Submissions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -468,6 +470,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0131-palindrome-partitioning](https://github.com/at2911/LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0322-coin-change](https://github.com/at2911/LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0788-rotated-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -557,4 +560,16 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/at2911/LeetCode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
