@@ -194,6 +194,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/at2911/LeetCode-Submissions/tree/main/2427-number-of-common-factors/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -384,6 +385,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3024-type-of-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/at2911/LeetCode-Submissions/tree/main/3099-harshad-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/at2911/LeetCode-Submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
