@@ -156,6 +156,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3731-find-missing-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/at2911/LeetCode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/at2911/LeetCode-Submissions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -240,6 +241,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/at2911/LeetCode-Submissions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/at2911/LeetCode-Submissions/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +279,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/at2911/LeetCode-Submissions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -296,6 +299,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/at2911/LeetCode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/at2911/LeetCode-Submissions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3894-traffic-signal-color](https://github.com/at2911/LeetCode-Submissions/tree/main/3894-traffic-signal-color/) | Easy |
 ## Two Pointers
