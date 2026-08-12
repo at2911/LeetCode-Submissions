@@ -143,6 +143,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/at2911/LeetCode-Submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/at2911/LeetCode-Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/3024-type-of-triangle/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/at2911/LeetCode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -235,6 +236,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/at2911/LeetCode-Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/at2911/LeetCode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -553,6 +555,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/at2911/LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/at2911/LeetCode-Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
