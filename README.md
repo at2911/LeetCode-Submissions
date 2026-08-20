@@ -151,6 +151,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/at2911/LeetCode-Submissions/tree/main/3024-type-of-triangle/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/at2911/LeetCode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -304,6 +305,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1260-shift-2d-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3701-compute-alternating-sum/) | Easy |
