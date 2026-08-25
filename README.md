@@ -161,6 +161,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/at2911/LeetCode-Submissions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/at2911/LeetCode-Submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/at2911/LeetCode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -251,6 +252,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3668-restore-finishing-order](https://github.com/at2911/LeetCode-Submissions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/at2911/LeetCode-Submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/at2911/LeetCode-Submissions/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Sorting
