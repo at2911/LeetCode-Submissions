@@ -380,6 +380,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/at2911/LeetCode-Submissions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/at2911/LeetCode-Submissions/tree/main/0060-permutation-sequence/) | Hard |
