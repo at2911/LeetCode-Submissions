@@ -170,6 +170,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3842-toggle-light-bulbs](https://github.com/at2911/LeetCode-Submissions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +427,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3783-mirror-distance-of-an-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3894-traffic-signal-color](https://github.com/at2911/LeetCode-Submissions/tree/main/3894-traffic-signal-color/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
