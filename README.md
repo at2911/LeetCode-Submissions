@@ -106,6 +106,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0493-reverse-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/0493-reverse-pairs/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0575-distribute-candies](https://github.com/at2911/LeetCode-Submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/at2911/LeetCode-Submissions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
@@ -241,6 +242,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0349-intersection-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0575-distribute-candies](https://github.com/at2911/LeetCode-Submissions/tree/main/0575-distribute-candies/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/at2911/LeetCode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/at2911/LeetCode-Submissions/tree/main/1345-jump-game-iv/) | Hard |
