@@ -195,6 +195,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0090-subsets-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/0190-reverse-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0461-hamming-distance](https://github.com/at2911/LeetCode-Submissions/tree/main/0461-hamming-distance/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/at2911/LeetCode-Submissions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
