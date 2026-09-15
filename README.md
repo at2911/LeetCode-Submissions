@@ -42,6 +42,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0504-base-7](https://github.com/at2911/LeetCode-Submissions/tree/main/0504-base-7/) | Easy |
 | [0541-reverse-string-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/at2911/LeetCode-Submissions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0771-jewels-and-stones](https://github.com/at2911/LeetCode-Submissions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/at2911/LeetCode-Submissions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/at2911/LeetCode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -246,6 +247,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0383-ransom-note](https://github.com/at2911/LeetCode-Submissions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0575-distribute-candies](https://github.com/at2911/LeetCode-Submissions/tree/main/0575-distribute-candies/) | Easy |
+| [0771-jewels-and-stones](https://github.com/at2911/LeetCode-Submissions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/at2911/LeetCode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/at2911/LeetCode-Submissions/tree/main/1345-jump-game-iv/) | Hard |
