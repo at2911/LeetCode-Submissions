@@ -659,5 +659,6 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/at2911/LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
