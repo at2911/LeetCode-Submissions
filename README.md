@@ -176,6 +176,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3876-construct-uniform-parity-array-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/at2911/LeetCode-Submissions/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +273,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3718-smallest-missing-multiple-of-k](https://github.com/at2911/LeetCode-Submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/at2911/LeetCode-Submissions/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/at2911/LeetCode-Submissions/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
