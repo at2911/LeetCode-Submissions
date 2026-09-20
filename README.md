@@ -63,6 +63,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3110-score-of-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/at2911/LeetCode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/at2911/LeetCode-Submissions/tree/main/3894-traffic-signal-color/) | Easy |
@@ -330,6 +331,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2553-separate-the-digits-in-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3701-compute-alternating-sum/) | Easy |
