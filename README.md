@@ -116,6 +116,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0905-sort-array-by-parity](https://github.com/at2911/LeetCode-Submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1051-height-checker](https://github.com/at2911/LeetCode-Submissions/tree/main/1051-height-checker/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/at2911/LeetCode-Submissions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/at2911/LeetCode-Submissions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1260-shift-2d-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/at2911/LeetCode-Submissions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -291,6 +292,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/at2911/LeetCode-Submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1051-height-checker](https://github.com/at2911/LeetCode-Submissions/tree/main/1051-height-checker/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/at2911/LeetCode-Submissions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/at2911/LeetCode-Submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
