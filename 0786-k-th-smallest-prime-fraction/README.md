@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/k-th-smallest-prime-fraction/">786. K-th Smallest Prime Fraction</a></h2><h3>Medium</h3><hr><p>You are given a sorted integer array <code>arr</code> containing <code>1</code> and <strong>prime</strong> numbers, where all the integers of <code>arr</code> are unique. You are also given an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/k-th-smallest-prime-fraction/description/?envType=problem-list-v2&envId=sorting">786. K-th Smallest Prime Fraction</a></h2><h3>Medium</h3><hr><p>You are given a sorted integer array <code>arr</code> containing <code>1</code> and <strong>prime</strong> numbers, where all the integers of <code>arr</code> are unique. You are also given an integer <code>k</code>.</p>
 
 <p>For every <code>i</code> and <code>j</code> where <code>0 &lt;= i &lt; j &lt; arr.length</code>, we consider the fraction <code>arr[i] / arr[j]</code>.</p>
 
