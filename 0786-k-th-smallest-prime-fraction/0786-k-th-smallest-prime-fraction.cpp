@@ -7,7 +7,9 @@ public:
     vector<int> kthSmallestPrimeFraction(vector<int>& arr, int k) {
         vector<vector<int>> ans;
         // vector<int>temp;
-        for (int i = 0; i < arr.size() - 1; i++) {
+        for (int i = 0; i < arr.size() - 1; 
+        
+        i++) {
             for (int j = i + 1; j < arr.size() ; j++) {
                 vector<int> temp;
                 temp.push_back(arr[i]);
