@@ -110,6 +110,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0540-single-element-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0575-distribute-candies](https://github.com/at2911/LeetCode-Submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/at2911/LeetCode-Submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/at2911/LeetCode-Submissions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0877-stone-game/) | Medium |
@@ -291,6 +292,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0349-intersection-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/at2911/LeetCode-Submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/at2911/LeetCode-Submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/at2911/LeetCode-Submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1051-height-checker](https://github.com/at2911/LeetCode-Submissions/tree/main/1051-height-checker/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/at2911/LeetCode-Submissions/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -322,6 +324,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/at2911/LeetCode-Submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 ## Simulation
@@ -365,6 +368,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0349-intersection-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/at2911/LeetCode-Submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0541-reverse-string-ii/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/at2911/LeetCode-Submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/at2911/LeetCode-Submissions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/at2911/LeetCode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -468,6 +472,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0493-reverse-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/at2911/LeetCode-Submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [2540-minimum-common-value](https://github.com/at2911/LeetCode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/at2911/LeetCode-Submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
