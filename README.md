@@ -115,6 +115,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0821-shortest-distance-to-a-character](https://github.com/at2911/LeetCode-Submissions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0877-stone-game/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/at2911/LeetCode-Submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/at2911/LeetCode-Submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1051-height-checker](https://github.com/at2911/LeetCode-Submissions/tree/main/1051-height-checker/) | Easy |
@@ -254,6 +255,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0387-first-unique-character-in-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0575-distribute-candies](https://github.com/at2911/LeetCode-Submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0771-jewels-and-stones](https://github.com/at2911/LeetCode-Submissions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/at2911/LeetCode-Submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/at2911/LeetCode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/at2911/LeetCode-Submissions/tree/main/1345-jump-game-iv/) | Hard |
@@ -619,6 +621,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/at2911/LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/at2911/LeetCode-Submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/at2911/LeetCode-Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/at2911/LeetCode-Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Linked List
