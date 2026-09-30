@@ -100,6 +100,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/at2911/LeetCode-Submissions/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/at2911/LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
@@ -247,6 +248,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0169-majority-element](https://github.com/at2911/LeetCode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/at2911/LeetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/at2911/LeetCode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/at2911/LeetCode-Submissions/tree/main/0290-word-pattern/) | Easy |
@@ -621,6 +623,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/at2911/LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/at2911/LeetCode-Submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/at2911/LeetCode-Submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/at2911/LeetCode-Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
