@@ -65,6 +65,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3120-count-the-number-of-special-characters-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/at2911/LeetCode-Submissions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/at2911/LeetCode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/at2911/LeetCode-Submissions/tree/main/3894-traffic-signal-color/) | Easy |
@@ -278,6 +279,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/at2911/LeetCode-Submissions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/at2911/LeetCode-Submissions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/at2911/LeetCode-Submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
@@ -410,6 +412,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/at2911/LeetCode-Submissions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/at2911/LeetCode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/at2911/LeetCode-Submissions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
