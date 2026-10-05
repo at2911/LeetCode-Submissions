@@ -113,6 +113,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0540-single-element-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0575-distribute-candies](https://github.com/at2911/LeetCode-Submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0682-baseball-game/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/at2911/LeetCode-Submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/at2911/LeetCode-Submissions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
@@ -338,6 +339,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/at2911/LeetCode-Submissions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/at2911/LeetCode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -533,6 +535,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0234-palindrome-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/at2911/LeetCode-Submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0682-baseball-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/at2911/LeetCode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/at2911/LeetCode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/at2911/LeetCode-Submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
