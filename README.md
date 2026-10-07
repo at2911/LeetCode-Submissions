@@ -206,6 +206,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0090-subsets-ii](https://github.com/at2911/LeetCode-Submissions/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/at2911/LeetCode-Submissions/tree/main/0190-reverse-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/at2911/LeetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
 | [0461-hamming-distance](https://github.com/at2911/LeetCode-Submissions/tree/main/0461-hamming-distance/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -425,6 +426,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0060-permutation-sequence](https://github.com/at2911/LeetCode-Submissions/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/at2911/LeetCode-Submissions/tree/main/0062-unique-paths/) | Medium |
 | [0202-happy-number](https://github.com/at2911/LeetCode-Submissions/tree/main/0202-happy-number/) | Easy |
+| [0342-power-of-four](https://github.com/at2911/LeetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/at2911/LeetCode-Submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/at2911/LeetCode-Submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/at2911/LeetCode-Submissions/tree/main/0504-base-7/) | Easy |
@@ -604,6 +606,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0060-permutation-sequence](https://github.com/at2911/LeetCode-Submissions/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/at2911/LeetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/at2911/LeetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
