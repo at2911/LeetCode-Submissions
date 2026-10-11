@@ -156,6 +156,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/at2911/LeetCode-Submissions/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/at2911/LeetCode-Submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/at2911/LeetCode-Submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -229,6 +230,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/at2911/LeetCode-Submissions/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/at2911/LeetCode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
