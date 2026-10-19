@@ -143,6 +143,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/at2911/LeetCode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/at2911/LeetCode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/at2911/LeetCode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -315,6 +316,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/at2911/LeetCode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/at2911/LeetCode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/at2911/LeetCode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -489,6 +491,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0493-reverse-pairs](https://github.com/at2911/LeetCode-Submissions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/at2911/LeetCode-Submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/at2911/LeetCode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/at2911/LeetCode-Submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
