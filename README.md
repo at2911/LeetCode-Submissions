@@ -118,6 +118,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [0821-shortest-distance-to-a-character](https://github.com/at2911/LeetCode-Submissions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/at2911/LeetCode-Submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/at2911/LeetCode-Submissions/tree/main/0877-stone-game/) | Medium |
+| [0896-monotonic-array](https://github.com/at2911/LeetCode-Submissions/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/at2911/LeetCode-Submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/at2911/LeetCode-Submissions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/at2911/LeetCode-Submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
