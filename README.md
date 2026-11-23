@@ -156,6 +156,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2553-separate-the-digits-in-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/at2911/LeetCode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/at2911/LeetCode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/at2911/LeetCode-Submissions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/at2911/LeetCode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/at2911/LeetCode-Submissions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/at2911/LeetCode-Submissions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -201,6 +202,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [1260-shift-2d-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/at2911/LeetCode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/at2911/LeetCode-Submissions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2906-construct-product-matrix](https://github.com/at2911/LeetCode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Bit Manipulation
