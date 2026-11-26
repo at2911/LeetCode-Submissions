@@ -358,6 +358,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [2553-separate-the-digits-in-an-array](https://github.com/at2911/LeetCode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/at2911/LeetCode-Submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/at2911/LeetCode-Submissions/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/at2911/LeetCode-Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -468,6 +469,7 @@ A clean collection of my **LeetCode problem solutions** in **C++**, documenting 
 | [3099-harshad-number](https://github.com/at2911/LeetCode-Submissions/tree/main/3099-harshad-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/at2911/LeetCode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/at2911/LeetCode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/at2911/LeetCode-Submissions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/at2911/LeetCode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/at2911/LeetCode-Submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/at2911/LeetCode-Submissions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
